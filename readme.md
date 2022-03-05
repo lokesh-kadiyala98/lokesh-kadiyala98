@@ -4,11 +4,11 @@
 - :briefcase: Working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en).
 - :question: Ask me about Computers, Algorithms, System Design!
 - :heart_eyes: Coding, Lifting, Books, Documentaries.
-- :bulb: Fun Fact: Imposter syndrome made me ambitious.
+- :bulb: Fun fact: Imposter syndrome made me ambitious.
 
 <div align="center">
 
-## Let us connect
+## Let's connect
 <a href="https://www.linkedin.com/in/lokesh-kadiyala-23b761159/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
