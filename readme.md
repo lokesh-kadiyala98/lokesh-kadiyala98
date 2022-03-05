@@ -1,8 +1,14 @@
 ## Hello! Fancy seeing you here! <img src="./wave.gif" width="30px">
 
-I am Lokesh Kadiyala, you can call me Lokesh, currently working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en). I enjoy coding :heart_eyes: and also happen to help small business mark their presence on the internet. I am always open to collaborating on projects feel free to connect with me here:
+- I am Lokesh Kadiyala, you can call me Lokesh
+- :briefcase: Working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en).
+- :question: Ask me about Computers, Algorithms, System Design!
+- :heart_eyes: Coding, Lifting, Books, Documentaries.
+- :bulb: Fun Fact: Imposter syndrome made me ambitious.
 
 <div align="center">
+
+## Let us connect
 <a href="https://www.linkedin.com/in/lokesh-kadiyala-23b761159/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -19,10 +25,7 @@ I am Lokesh Kadiyala, you can call me Lokesh, currently working as a Contingent 
 <img src=https://img.shields.io/badge/Gmail-%23c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
 
----
-
 ## Technologies :zap:
-
 <table><tr>
 
 <td valign="top" width="33%">
