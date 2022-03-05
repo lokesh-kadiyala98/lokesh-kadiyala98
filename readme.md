@@ -1,14 +1,95 @@
-## Hi! Fancy seeing you here! <img src="./wave.gif" width="30px">
+## Hello! Fancy seeing you here! <img src="./wave.gif" width="30px">
 
-I am Lokesh Kadiyala, you can call me Lokesh, currently working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en). I am a tech enthusiast & enjoy coding and I also happen to help small business mark their presence on the internet. I am always open to collaborating on projects feel free to connect with me here:
+I am Lokesh Kadiyala, you can call me Lokesh, currently working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en). I enjoy coding :heart_eyes: and also happen to help small business mark their presence on the internet. I am always open to collaborating on projects feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lokesh%20Kadiyala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lokesh-kadiyala-23b761159/)](https://www.linkedin.com/in/lokesh-kadiyala-23b761159/) [![Instagram Badge](https://img.shields.io/badge/-lokesh_kadiyala-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lokesh_kadiyala/)](https://www.instagram.com/lokesh_kadiyala/) [![Gmail Badge](https://img.shields.io/badge/-lokad315@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lokad315@gmail.com)](mailto:lokad315@gmail.com)
+<div align="center">
+<a href="https://www.linkedin.com/in/lokesh-kadiyala-23b761159/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-## ⚡ Technologies
+<a href="https://www.instagram.com" target="_blank">
+<img src=https://img.shields.io/badge/-instagram-%23000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat-square&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+<a href="https://twitter.com/kadiyala_lokesh" target="_blank">
+<img src=https://img.shields.io/badge/-twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lokesh-kadiyala98&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-kadiyala98&hide=TeX&layout=compact)
+<a href="mailto:lokad315@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-%23c14438.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lokesh-kadiyala98.lokesh-kadiyala98)
+---
+
+## Technologies :zap:
+
+<table><tr>
+
+<td valign="top" width="33%">
+
+<div align="center">
+
+### Frontend
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+<div align="center">
+
+### Backend
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="MongoDB" height="50" />
+
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+<div align="center">
+
+### DevOps
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+
+</div>
+</td>
+
+</tr></table>
+
+## GitHub Stats :bar_chart:
+<div style="display: flex">
+<img src="https://github-readme-stats.vercel.app/api?username=lokesh-kadiyala98&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=radical" style="width: 50%;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-kadiyala98&hide=TeX&layout=compact&theme=radical" style="width: 50%" />
+</div>
+
+---
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=bfpa30bhhw0n5783pcefqkmq8&cover_image=true" />
+
+<br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lokesh-kadiyala98.lokesh-kadiyala98" align="center" />
+
+</div>
