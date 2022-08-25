@@ -1,7 +1,6 @@
 ## Hello! Fancy seeing you here! <img src="./wave.gif" width="30px">
 
 - I am Lokesh Kadiyala, you can call me Lokesh
-- :briefcase: Working as a Contingent Worker for [Goldman Sachs](https://www.goldmansachs.com/index.html) powering the [MARCUS](https://www.marcus.co.uk/uk/en).
 - :question: Ask me about Computers, Algorithms, System Design!
 - :heart_eyes: Coding, Lifting, Books, Documentaries.
 - :bulb: Fun fact: Imposter syndrome made me ambitious.
